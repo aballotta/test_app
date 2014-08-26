@@ -1,1 +1,3 @@
 hello = 'WORLD'
+
+puts 'WELCOME'
